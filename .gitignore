@@ -1,0 +1,8 @@
+#all build files
+Dist
+
+#all Node modules
+node_modules
+
+#todos
+todos.txt
